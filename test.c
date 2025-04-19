@@ -4,5 +4,6 @@
 
 int main()
 {
-  printf("test\n");
+
+  printf("%d", sum(10, 4));
 }
